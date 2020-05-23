@@ -1,1 +1,3 @@
+https://github.com/craSH/socat/blob/master/EXAMPLES
 
+socat udp-l:8888,reuseaddr,fork exec:date
